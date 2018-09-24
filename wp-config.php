@@ -25,7 +25,7 @@ define('DB_NAME', 'diafar3_ei');
 /** MySQL database username */
 define('DB_USER', 'diafar3_ei');
 
-/** MySQL database password */
+/** MySQL database password   */
 define('DB_PASSWORD', 'p9JClC15hd');
 
 /** MySQL hostname */
